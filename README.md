@@ -1,3 +1,5 @@
+<meta property="og:image" content="https://user-images.githubusercontent.com/73097560/130190392-85701d42-a2a4-44e8-90fe-8fde68552fc8.png"/>
+
 <h1 align="center">DEV Airdrop</h1>
 <h2 align="center">Welcome to the Door of Open Sourcerer</h2>
 
