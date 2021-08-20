@@ -1,4 +1,4 @@
-👈 [Back to previous site](https://dev-protocol.github.io/github-airdrop/)
+👈 [Check rewarded OSS developers](https://dev-protocol.github.io/github-airdrop/)
 
 # Guide
 
@@ -34,10 +34,10 @@ Note: To create an Ethereum transaction for claiming purposes, some amount of ET
 #### 4. Why my reward amount is different?
 - We examine your contributions and set the reward to exact details
 
-Reference: https://www.geeksforgeeks.org/difference-between-open-source-software-and-closed-source-software/
+Reference: [https://www.geeksforgeeks.org/difference-between-open-source-software-and-closed-source-software/](https://www.geeksforgeeks.org/difference-between-open-source-software-and-closed-source-software/)
 
-More info: https://airdrop.devprotocol.xyz/
+More info: [https://airdrop.devprotocol.xyz/](https://airdrop.devprotocol.xyz/)
 
-Guide: https://docs.devprotocol.xyz/stakes-social/
+Guide: [https://docs.devprotocol.xyz/stakes-social/](https://docs.devprotocol.xyz/stakes-social/)
 
 http://stakes.social/
