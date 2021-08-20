@@ -1,4 +1,4 @@
-👈 [Check rewarded OSS developers](https://dev-protocol.github.io/github-airdrop/)
+👈 [Check rewarded OSS developers](https://dev-protocol.github.io/dev-airdrop/)
 
 # Guide
 
