@@ -1,10 +1,10 @@
-<h1 align="center">Dev Airdrop</h1>
+<h1 align="center">DEV Airdrop</h1>
 <h2 align="center">Welcome to the Door of Open Sourcerer</h2>
 
 <p align="center">Dear all Open Source developers, thank you for supporting the open-source software ecosystem thus far. Dev Protocol will reward up to $2,100,000 to the most active GitHub users as a tribute and thank you for all your efforts.
 </p>
 
-<a href="https://airdrop.devprotocol.xyz/"><img src="/eyecatch.png"></a>
+<a href="https://airdrop.devprotocol.xyz/"><img src="https://user-images.githubusercontent.com/73097560/129858269-2e0d6ee9-e276-485a-b604-ac55df6e6c91.png"></a>
 
 The Dev Protocol team reviewed the registered applications and rewarded the following developers. We hope that the OSS ecosystem will expand further in the future.
 
@@ -12,9 +12,9 @@ The Dev Protocol team reviewed the registered applications and rewarded the foll
 - **Note:** If you don't find your GitHub username, it means you are not qualified to receive the reward.
 - **Note:** We do not accept inquiries related to Reward
 
-Check more [info](https://dev-protocol.github.io/dev-airdrop/guide)
+Check out this guide on how to receive your rewards! [Guide](https://dev-protocol.github.io/dev-airdrop/guide)
 
-Claim: [https://airdrop.devprotocol.xyz/](https://airdrop.devprotocol.xyz/)
+Airdrop website to Claim: [https://airdrop.devprotocol.xyz/](https://airdrop.devprotocol.xyz/)
 
 <br />
 
