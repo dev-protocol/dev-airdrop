@@ -4,7 +4,7 @@
 <p align="center">Dear all Open Source developers, thank you for supporting the open-source software ecosystem thus far. Dev Protocol will reward up to $2,100,000 to the most active GitHub users as a tribute and thank you for all your efforts.
 </p>
 
-<a href="https://airdrop.devprotocol.xyz/"><img src="https://user-images.githubusercontent.com/73097560/129858269-2e0d6ee9-e276-485a-b604-ac55df6e6c91.png"></a>
+<a href="https://airdrop.devprotocol.xyz/"><img src="https://user-images.githubusercontent.com/73097560/130190392-85701d42-a2a4-44e8-90fe-8fde68552fc8.png"></a>
 
 The Dev Protocol team reviewed the registered applications and rewarded the following developers. We hope that the OSS ecosystem will expand further in the future.
 
