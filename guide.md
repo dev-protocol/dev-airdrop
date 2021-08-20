@@ -3,7 +3,7 @@
 # Guide
 
 ## How to receive the DEV 
-1. Access the site
+1. Access the site https://airdrop.devprotocol.xyz/
 2. Login using your wallet
 3. When you login, the number of DEVs that the person can receive is displayed.
 4. You can access Iroiro for receive Reward
