@@ -34,10 +34,10 @@ Note: To create an Ethereum transaction for claiming purposes, some amount of ET
 #### 4. Why my reward amount is different?
 - We examine your contributions and set the reward to exact details
 
-:link: Reference: https://www.geeksforgeeks.org/difference-between-open-source-software-and-closed-source-software/
+Reference: https://www.geeksforgeeks.org/difference-between-open-source-software-and-closed-source-software/
 
-:link: More info: https://airdrop.devprotocol.xyz/
+More info: https://airdrop.devprotocol.xyz/
 
-:link: Guide: https://docs.devprotocol.xyz/stakes-social/
+Guide: https://docs.devprotocol.xyz/stakes-social/
 
-:link: http://stakes.social/
+http://stakes.social/
