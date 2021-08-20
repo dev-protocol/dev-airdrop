@@ -11,8 +11,10 @@ The Dev Protocol team reviewed the registered applications and rewarded the foll
 - **Guide:** Use ctrl+f and type your GitHub username to find your username easily 
 - **Note:** If you don't find your GitHub username, it means you are not qualified to receive the reward.
 - **Note:** We do not accept inquiries related to Reward
-  
-More info: <a href="https://airdrop.devprotocol.xyz/">https://airdrop.devprotocol.xyz/</a>
+
+More info: [guide](https://dev-protocol.github.io/github-airdrop/guide)
+
+Claim: [https://airdrop.devprotocol.xyz/](https://airdrop.devprotocol.xyz/)
 
 <br />
 
