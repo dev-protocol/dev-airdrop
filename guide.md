@@ -11,6 +11,9 @@
 
 Note: To create an Ethereum transaction for claiming purposes, some amount of ETH is consumed as a [gas](https://ethereumprice.org/gas/) fee. 
 
+- After receiving your reward
+  - Add the DEV token address to your wallet
+
 ## Due date
 - October 31, 2021
 - You will not be able to receive it after the period
