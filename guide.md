@@ -40,4 +40,4 @@ More info: [https://airdrop.devprotocol.xyz/](https://airdrop.devprotocol.xyz/)
 
 Guide: [https://docs.devprotocol.xyz/stakes-social/](https://docs.devprotocol.xyz/stakes-social/)
 
-http://stakes.social/
+[http://stakes.social/](http://stakes.social/)
